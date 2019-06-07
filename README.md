@@ -1,10 +1,3 @@
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-树洞外链
-
-============
-
-树洞外链是一款免费开源的PHP外链网盘系统，界面简洁友好，支持七牛、本地、远程、阿里云OSS、又拍云五种储存方式，支持多用户系统，多上传方案策略。
-
 ### 截图
 
 ![树洞外链-免费高速外链平台.png](https://o2d7sesam.qnssl.com/树洞外链-免费高速外链平台.png)
